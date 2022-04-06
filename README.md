@@ -17,7 +17,7 @@ This project is a fullstack web app that allows you to create an account and man
 ✅ BcryptJS.
 ✅ REST
 
-## Screnshots
+## Screenshots
 <br>
 
 ![Captura3](https://user-images.githubusercontent.com/44708451/161934513-941a8a3c-c3c9-42e4-96ef-fb12b5a2c1cf.PNG)
