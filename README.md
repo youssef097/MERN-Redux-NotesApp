@@ -9,13 +9,13 @@ This project is a fullstack web app that allows you to create an account and man
 
 ## Technologies/Libraries used.
 
-✅ ReactJs as a UI library.
-✅ The backed is running on Node JS.
-✅ MongoDB as as a non relational database using MOngoose as an ORM.
-✅ Redux as a client side state manager.
-✅ JWT as an authorization/authentication system.
-✅ BcryptJS.
-✅ REST
+✅ ReactJs as a UI library. <br>
+✅ The backed is running on Node JS.<br>
+✅ MongoDB as as a non relational database using MOngoose as an ORM.<br>
+✅ Redux as a client side state manager.<br>
+✅ JWT as an authorization/authentication system.<br>
+✅ BcryptJS.<br>
+✅ REST<br>
 
 ## Screenshots
 <br>
